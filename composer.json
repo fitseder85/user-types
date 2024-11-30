@@ -1,0 +1,17 @@
+{
+    "name": "fitseder85/userTypes",
+    "description": "adding User types list",
+    "authors": [
+        {
+            "name": "Fitsum Deribe",
+            "email": "fitseder85@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Fitseder85\\UserTypes\\": "src/",
+            "Fitseder85\\UserTypes\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "require": {}
+}
