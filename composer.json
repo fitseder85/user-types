@@ -1,6 +1,7 @@
 {
     "name": "fitseder85/user-types",
     "description": "adding User types list",
+    "license": "MIT",
     "authors": [
         {
             "name": "Fitsum Deribe",
