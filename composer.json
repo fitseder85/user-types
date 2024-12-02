@@ -14,5 +14,7 @@
             "Fitseder85\\UserTypes\\Database\\Seeders\\": "database/seeders/"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=8.2"
+    }
 }
