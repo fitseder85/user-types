@@ -1,11 +1,16 @@
 {
     "name": "fitseder85/user-types",
+    "type": "library",
     "description": "adding User types list",
+    "keywords": ["user","user type"],
+    "homepage": "https://github.com/fitseder85/user-types",
     "license": "MIT",
     "authors": [
         {
             "name": "Fitsum Deribe",
-            "email": "fitseder85@hotmail.com"
+            "email": "fitseder85@hotmail.com",
+            "homepage": "http://felagotsite.com",
+            "role": "Developer"
         }
     ],
     "autoload": {
