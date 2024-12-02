@@ -14,7 +14,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "Fitseder85\\UserTypes\\": "src/",
             "Fitseder85\\UserTypes\\Database\\Seeders\\": "database/seeders/"
         }
